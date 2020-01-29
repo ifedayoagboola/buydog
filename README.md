@@ -1,2 +1,1 @@
-# buydog
-A static dog site
+TinDog Starting Files
